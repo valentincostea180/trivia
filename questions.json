@@ -1,0 +1,34 @@
+[
+{
+    "question": "What is the name of our project?",
+    "choice1": "nextStep",
+    "choice2": "goNext",
+    "choice3": "firstStep",
+    "choice4": "stepIn",
+    "answer": 1
+},
+{
+    "question": "What procentage of students choose a random degree to follow?",
+    "choice1": "90%",
+    "choice2": "20%",
+    "choice3": "50%",
+    "choice4": "75%",
+    "answer": 3
+},
+{
+    "question": "Besides academic information, course recommandation and job insights, what else does nextStep offer?",
+    "choice1": "DNA testing",
+    "choice2": "free soda",
+    "choice3": "soem routine suggestions",
+    "choice4": "your psychological profile",
+    "answer": 4
+},
+{
+    "question": "How big is the Service Obtainable Market?",
+    "choice1": "100 millions",
+    "choice2": "30 millions",
+    "choice3": "20 millions",
+    "choice4": "5 millions",
+    "answer": 3
+} 
+]
