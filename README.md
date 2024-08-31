@@ -1,1 +1,3 @@
-# trivia
+For an online competition aimed at registering startup ideas, I developed an interactive quiz website centered around a personal business concept - an A.I. social enterprise. The website was crafted using JavaScript, CSS, and HTML, incorporating several key features to enhance user engagement and functionality.
+
+The quiz website employs localStorage to ensure that user progress and scores are preserved across sessions, allowing for a seamless and personalized experience. It uses JSON fetching to randomize quiz questions, providing varied and dynamic content to keep users engaged. Additionally, the website is designed with responsiveness in mind, ensuring compatibility and a smooth user experience across a range of devices.
