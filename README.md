@@ -1,3 +1,25 @@
-For an online competition aimed at registering startup ideas, I developed an interactive quiz website centered around a personal business concept - an A.I. social enterprise. The website was crafted using JavaScript, CSS, and HTML, incorporating several key features to enhance user engagement and functionality.
+# 🧠 AI Startup Quiz Website
 
-The quiz website employs localStorage to ensure that user progress and scores are preserved across sessions, allowing for a seamless and personalized experience. It uses JSON fetching to randomize quiz questions, providing varied and dynamic content to keep users engaged. Additionally, the website is designed with responsiveness in mind, ensuring compatibility and a smooth user experience across a range of devices.
+An interactive quiz website built for an online startup competition, based on a personal **AI social enterprise concept**.
+
+## 📌 Overview
+
+The project presents a quiz experience that introduces users to the idea through dynamic questions, while maintaining progress and engagement across sessions.
+
+## ⚙️ Features
+
+* Dynamic quiz with randomized questions (JSON)
+* Progress and score saving using `localStorage`
+* Responsive design for multiple devices
+* Interactive UI built with HTML, CSS, and JavaScript
+
+## ▶️ How to Run
+
+1. Open the project in a browser
+2. Start the quiz
+3. Progress and scores are saved automatically
+
+## 🧠 Concepts Used
+
+* DOM manipulation
+* Fetching and using JSON data
